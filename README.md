@@ -7,8 +7,6 @@ I'm open to collaborating on projects/open-source.
 
 ## <img src="./assets/Man Technologist Light Skin Tone.png" width="25"/> &nbsp; Professional Experience / Skills
 
-<hr>
-
 * **Back‐end:** Microservices, NodeJs, REST API, Redis, MySQL
 * **Front‐end:** React, Redux, Firebase, TailwindCSS, MaterialUI, AJAX, Jquery, HTML, CSS, Bootstrap
 * **Programming Languages:** Golang, Typescript, Javascript, Python, Java, PHP
@@ -20,30 +18,23 @@ I'm open to collaborating on projects/open-source.
 
 ## <img src="./assets/Artist Medium-Light Skin Tone.png" width="25"/> &nbsp; Some Beautiful and Responsive UI(s) I've built using React as a *Newbie* <img src="./assets/Baby.png" width="20"/>
 
-<hr>
-
-* **[FirstReactLandingPage](https://myfirstreactlandingpage.firebaseapp.com/) ~** Cards and Icons with hover effects & animations
-<br>
+* [FirstReactLandingPage](https://myfirstreactlandingpage.firebaseapp.com/) ~ Cards and Icons with hover effects & animations
 <img src="./assets/FirstReactLandingPage.gif" width="300" />
 <br><br>
 
-* **[Kasino - Game](https://kasinowebapp.firebaseapp.com/) ~** Uses local storage
-<br>
+* [Kasino - Game](https://kasinowebapp.firebaseapp.com/) ~ Uses local storage
 <img src="./assets/Kasino.gif" width="300" />
 <br><br>
 
-* **[React Search](https://github.com/yashmishra0207/React-Search) ~** Debounced Search, highlighted matching sub-strings, random search delay
-<br>
+* [React Search](https://github.com/yashmishra0207/React-Search) ~ Debounced Search, highlighted matching sub-strings, random search delay
 <img src="./assets/ReactSearch.gif" width="300" />
 <br><br>
 
-* **[Apply Now Page](https://p2plendingwebapp.firebaseapp.com/applyloan) ~** Minimilistic design & appropriate use of typography
-<br>
+* [Apply Now Page](https://p2plendingwebapp.firebaseapp.com/applyloan) ~ Minimilistic design & appropriate use of typography
 <img src="./assets/ApplyNowPage.gif" width="300" />
 <br><br>
 
-* **[P2PLendingLendingHomePage](https://p2plendingwebapp.firebaseapp.com/) ~** Reusable card components, customized horizontal rules
-<br>
+* [P2PLendingLendingHomePage](https://p2plendingwebapp.firebaseapp.com/) ~ Reusable card components, customized horizontal rules
 <img src="./assets/P2PHomepage.gif" width="300" />
 <br><br>
 
