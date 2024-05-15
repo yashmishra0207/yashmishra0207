@@ -7,9 +7,9 @@ I'm open to collaborating on projects/open-source.
 
 ## <img src="./assets/Man Technologist Light Skin Tone.png" width="25"/> &nbsp; Professional Experience / Skills
 
-* **Back‐end:** Microservices, NodeJs, REST API, Redis, MySQL
+* **Back‐end:** Springboot, Microservices, NodeJs, REST API, Redis, MySQL
 * **Front‐end:** React, Redux, Firebase, TailwindCSS, MaterialUI, AJAX, Jquery, HTML, CSS, Bootstrap
-* **Programming Languages:** Golang, Typescript, Javascript, Python, Java, PHP
+* **Programming Languages:** Java, Golang, Typescript, Javascript, Python, PHP
 
 <br>
 <br>
@@ -40,7 +40,7 @@ I'm open to collaborating on projects/open-source.
 
 <br><hr>
 
-<img src="./assets/Scroll.png" width="25"/> You can read more about my *Work Experience* and *Professional Projects* over here <img src="./assets/Backhand Index Pointing Right Medium-Light Skin Tone.png" width="20"/> [[Link to Resume](https://drive.google.com/file/d/1Uq82u4owkq-yTFv9pHfsSjuvC1NemwH-/view?usp=sharing)]
+<img src="./assets/Scroll.png" width="25"/> You can read more about my *Work Experience* and *Professional Projects* over here <img src="./assets/Backhand Index Pointing Right Medium-Light Skin Tone.png" width="20"/> [[Link to Resume](https://drive.google.com/file/d/1DLzkN8aYhBGsB38TgLKb7TbOYXVPmcsg/view?usp=drive_link)]
 
 <hr><br>
 
